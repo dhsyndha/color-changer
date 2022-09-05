@@ -1,0 +1,26 @@
+header{
+    padding: 100px 50px;
+    background-color: #FEF5ED;
+    color: #d4f1ca;
+}
+main{
+    padding: 100px;
+    background-color: #ADC2A9;
+}
+main a {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+main a:link{
+    color: red;
+}
+main a:hover{
+    color: rgb(255, 130, 130);
+}
+main a:visited{
+    color: black;
+}
+main a:active{
+    color: rgb(96, 155, 250);
+}
